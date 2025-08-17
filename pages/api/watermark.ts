@@ -1,0 +1,1 @@
+// Sharp watermark placeholder

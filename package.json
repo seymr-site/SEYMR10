@@ -1,0 +1,28 @@
+{
+  "name": "seymr-v12-1",
+  "private": true,
+  "version": "12.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next-sitemap",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "next-seo": "6.5.0",
+    "sharp": "0.33.4",
+    "stripe": "14.25.0",
+    "jsonwebtoken": "9.0.2",
+    "zod": "3.23.8",
+    "lru-cache": "10.2.2"
+  },
+  "devDependencies": {
+    "typescript": "5.6.2",
+    "@types/node": "20.14.10",
+    "@types/react": "18.3.3",
+    "next-sitemap": "4.2.3"
+  }
+}

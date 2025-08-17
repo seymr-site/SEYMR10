@@ -1,0 +1,1 @@
+// Salon privé (JWT protected)

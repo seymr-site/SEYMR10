@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='grid'><h1 className='h1'>Mentions légales</h1><div className='card'><p className='lead'>SEYMR® — Éditeur: SEYMR®. Email: contact@seymr.art. Hébergeur: OVHcloud & Vercel. Adresse: Les 4 Chemins, Marigot — 97133 Saint‑Barthélemy.</p></div></div>)}

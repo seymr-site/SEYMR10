@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "manifesto": "Manifeste",
+    "freq": "Art fréquentiel",
+    "furniture": "Mobilier",
+    "works": "Œuvres",
+    "private": "Salon privé",
+    "legal": "Mentions"
+  },
+  "hero": {
+    "title": "SEYMR® — Art fréquentiel & design fonctionnel",
+    "lead": "Pièces d’exception en édition limitée. Fabrication éthique. Maîtrise totale.",
+    "cta": "Découvrir les œuvres"
+  },
+  "footer": {
+    "rights": "© SEYMR® — Tous droits réservés",
+    "contact": "contact@seymr.art",
+    "addr": "Les 4 Chemins, Marigot — 97133 Saint‑Barthélemy"
+  }
+}

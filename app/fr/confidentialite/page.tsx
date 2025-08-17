@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='grid'><h1 className='h1'>Politique de confidentialité</h1><div className='card'><p className='lead'>RGPD & international: minimisation des données, sécurité, droits d’accès/effacement, e-mails transactionnels, cookies de mesure.</p></div></div>)}

@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "首页",
+    "manifesto": "宣言",
+    "freq": "频率艺术",
+    "furniture": "家居",
+    "works": "作品",
+    "private": "私享会所",
+    "legal": "法律"
+  },
+  "hero": {
+    "title": "SEYMR® — 频率艺术与功能设计",
+    "lead": "限量发行 · 伦理制造 · 全流程掌控",
+    "cta": "查看作品"
+  },
+  "footer": {
+    "rights": "© SEYMR® — 保留所有权利",
+    "contact": "contact@seymr.art",
+    "addr": "马里戈四岔路口 — 97133 圣巴泰勒米"
+  }
+}

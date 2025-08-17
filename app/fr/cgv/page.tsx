@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='grid'><h1 className='h1'>Conditions Générales de Vente</h1><div className='card'><p className='lead'>Version UHNWI — commandes à la demande, édition limitée, garanties légales, livraison premium, réclamations sous 24h, paiements Stripe/Apple Pay.</p></div></div>)}

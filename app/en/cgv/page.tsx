@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='grid'><h1 className='h1'>Legal</h1><div className='card'><p className='lead'>Please refer to the authoritative French version: <a className='btn' href='/fr/mentions-legales'>Mentions légales</a></p></div></div>)}

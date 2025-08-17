@@ -1,0 +1,1 @@
+export default function Page(){return (<div className="grid"><h1 className="h1">Art Fréquentiel</h1><div className="card"><p className="lead">Interaction entre lumière, géométrie et perception. Hypnose visuelle, structure et chaos maîtrisés.</p></div></div>)}

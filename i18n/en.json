@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Home",
+    "manifesto": "Manifesto",
+    "freq": "Frequency Art",
+    "furniture": "Furniture",
+    "works": "Works",
+    "private": "Private Salon",
+    "legal": "Legal"
+  },
+  "hero": {
+    "title": "SEYMR® — Frequency Art & Functional Design",
+    "lead": "Limited editions. Ethical fabrication. Total mastery.",
+    "cta": "Explore works"
+  },
+  "footer": {
+    "rights": "© SEYMR® — All rights reserved",
+    "contact": "contact@seymr.art",
+    "addr": "Les 4 Chemins, Marigot — 97133 Saint‑Barthélemy"
+  }
+}

@@ -1,0 +1,1 @@
+export default function Page(){return (<div className="grid"><h1 className="h1">Manifeste</h1><div className="card"><p className="lead">Art fréquentiel, design fonctionnel, rigueur et élégance intellectuelle — l’esthétique SEYMR®.</p></div></div>)}

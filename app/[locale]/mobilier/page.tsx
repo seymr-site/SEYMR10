@@ -1,0 +1,1 @@
+export default function Page(){return (<div className="grid"><h1 className="h1">Mobilier d’Art</h1><div className="card"><p className="lead">Objets-signatures : vivre l’art au quotidien — hêtre, velours, soie, cuir Nappa.</p></div></div>)}

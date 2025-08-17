@@ -1,0 +1,1 @@
+export default function Page(){return (<div className='grid'><h1 className='h1'>FAQ</h1><div className='card'><p className='lead'>Fabrication à Londres, expédition 95% sous 48h, UE: droits inclus, hors UE: privilège logistique, retours uniquement pour défaut.</p></div></div>)}
